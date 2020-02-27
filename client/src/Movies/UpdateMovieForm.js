@@ -59,7 +59,7 @@ const UpdateMovie = props => {
                   id="metascore"
                   name="metascore"
                   placeholder="Enter Metascore"
-                  value={movie.tmetascore}
+                  value={movie.metascore}
                   onChange={handleChange}
               />
               <input
